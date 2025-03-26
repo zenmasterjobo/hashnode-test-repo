@@ -1,12 +1,11 @@
 ---
 title: "Kube-Policies: Guardrails for Apps Running in Kubernetes"
 datePublished: Tue Jan 28 2025 08:00:00 GMT+0000 (Coordinated Universal Time)
-cuid: cm8q3lk8i000b09la5j3t1asi
+subtitle: An example subtitle
+domain: developer.squareup.com/lob
 slug: kube-policies-guardrails-for-apps-running-in-kubernetes
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743004033407/5d8de43c-5841-491e-8b9d-ceabc9f66d74.png
-
 ---
-
 
 ## Introduction
 
