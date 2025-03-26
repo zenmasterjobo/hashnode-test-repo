@@ -5,6 +5,7 @@ subtitle: An example subtitle
 domain: developer.squareup.com/lob
 slug: kube-policies-guardrails-for-apps-running-in-kubernetes
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743004033407/5d8de43c-5841-491e-8b9d-ceabc9f66d74.png
+tags: kubernetes
 ---
 
 ## Introduction
