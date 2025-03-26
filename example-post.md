@@ -5,7 +5,8 @@ domain: "developer.squareup.com/blog"
 subtitle: "Optimizing third-party API integrations for your user experience"
 image: "https://images.ctfassets.net/1wryd5vd9xez/4hbmnEYHO1IeiJft23Pdq5/62dbd2e15c09f145d2f61a8bf793eca2/Engineering_1_-_Evergreen_Blog_Header_Image__2916_x_800__-_Teal.png?h=840&w=1600"
 date: "2025-02-05T03:30-07:00"
-seoTitle: "undefined"
+seoTitle: "This is an SEO title"
+tags: javascript
 seoDescription: "Optimizing API integrations is crucial for delivering high-performing and reliable applications for the best user experience."
 enableToc: true
 ---
