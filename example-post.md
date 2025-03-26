@@ -3,7 +3,7 @@ title: "Best Practices for Using Third-Party APIs"
 slug: "best-practices-for-using-third-party-apis"
 domain: "moot.dev"
 subtitle: "Optimizing third-party API integrations for your user experience"
-cover: "https://images.ctfassets.net/1wryd5vd9xez/4hbmnEYHO1IeiJft23Pdq5/62dbd2e15c09f145d2f61a8bf793eca2/Engineering_1_-_Evergreen_Blog_Header_Image__2916_x_800__-_Teal.png?h=840&w=1600"
+cover: "https://cdn.hashnode.com/res/hashnode/image/upload/v1743032150750/rYWwLEtzO.png?auto=format"
 date: "2025-02-05T03:30-07:00"
 seoTitle: "This is an SEO title"
 tags: javascript
