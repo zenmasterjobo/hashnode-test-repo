@@ -5,6 +5,7 @@ domain: "moot.dev"
 subtitle: "Harnessing Large Language Models to Deliver Accurate Business Insights"
 cover: "https://cdn.hashnode.com/res/hashnode/image/upload/v1743033040025/qyR_6-hjt.png?auto=format"
 date: "2025-03-26T00:00-05:00"
+tags: reactjs
 seoDescription: "Square's ML-driven merchant categorization improves accuracy by 30%, enhancing product experiences, strategy, and payments."
 enableToc: true
 ---
